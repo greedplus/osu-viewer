@@ -14,6 +14,7 @@ A website that allows you to search for specific patterns or difficulties for al
     - [x] rosu-pp
     - [x] minacalc-rs
     - [x] ssrrr
+    - [ ] rosu-pattern-detector
     - [ ] osu-pattern (Will Make)
     - [ ] osu-farm (Maybe in the future)
 2. [ ] Setup Web API
