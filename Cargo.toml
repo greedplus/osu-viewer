@@ -8,6 +8,7 @@ repository = "https://github.com/greedplus/osu-viewer"
 [dependencies]
 axum = "0.8.9"
 diesel = { version = "2.3.9", features = ["sqlite"] }
-minacalc-rs = "515.1.1"
+metron-rs = "0.1.0"
+rhythm-open-exchange = "=0.6.2"
 rosu-pp = "4.0.1"
 ssrrr = "=0.2.1"
